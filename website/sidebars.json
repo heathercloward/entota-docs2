@@ -1,0 +1,27 @@
+{
+  "docs": {
+    "Getting Started": ["Getting Started with Entota"],
+    "Dashboards": ["Migration Dashboard", "Director Dashboard", "Director Dashboard Deep Guidance"],
+    "Requirements": ["Entota WebSocket Firewall Requirements"],
+    "Administration": ["Administration", "Search Admin", "Add a User to Entota", "Edit a User Account", "Update My Profile"],
+    "Search": ["Enhanced Search"],
+    "Strategy": ["Strategy", "Vision Mission Goals and Initiatives", "Add a Vision", "add-a-mission", "Add Goals", "Add Initiatives"],
+    "Terms, Policies, and Rules": ["Terms Policies Rules", "Set Up Terms", "Set Up Policies", "Set Up Rules"],
+    "Data Catalog": ["Data Catalog", "Set Up a System", "Import Fields to a System", "Set Up a Data Set"],
+    "Sponsors": ["Sponsors","Add a Sponsor to an Asset", "Sponsor an Asset", "Contest an Asset (Non-sponsors)"],
+    "Relationships": ["Relationships", "Add a Relationship to a Non-Strategy Asset", "Add a Relationship to a Strategy Asset", "Add a Term-to-Term Relationship", "Deep Guidance Inferred Relationships"],
+    "Asset Options": ["Asset Options", "Share URLs for Assets", "View Change History for Assets", "Contest an Asset (Non-sponsors)", "Comment on an Asset", "Add Supporting Documentation to an Asset", "Enforcement Profiles"],
+    "Process Designer": ["process-designer-overview", "Search Process Designer", "Categories", "add-a-category", "add-a-process-or-scenario", "edit-a-process-or-scenario", "Publish Governance Elements", "Where Used", "Visual Designer", "Visual Designer Overview", "Visual Designer Toolbar and Navigation", "Visual Designer - Process Deep Dive", "Visual Designer - Scenario Deep Dive"],
+    "Guidance": ["Guidance"],
+    "Notifications": ["Notifications"]
+  },
+  "WhatsNew": {
+    "2019": ["Current Month", "January 2019"], 
+    "2018": ["December 2018", "November 2018", "October 2018", "September 2018", "August 2018", "July 2018", "June 2018", "May 2018", "April 2018", "March 2018", "February 2018", "January 2018"],
+    "2017": ["December 2017"]
+  }, 
+  "Help": {
+    "Welcome": ["Welcome"],
+    "How to use Online Help": ["How_to_Use_Online_Help", "Basic_Navigation", "Print_Feedback_Version", "Online Help Search Tips"]
+  }
+}
