@@ -68,7 +68,7 @@ class Footer extends React.Component {
           <div>
             <h5>More</h5>
             <a href="http://support.boaweb.com/hc/en-us">Knowldege Base</a>
-            <a href={this.docUrl('Data Insiders Community.html', this.props.language)}>
+            <a href={this.docUrl('Data_Insiders_Community.html', this.props.language)}>
               Data Insiders Community
             </a>
           </div>

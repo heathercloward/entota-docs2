@@ -68,8 +68,8 @@ class HomeSplash extends React.Component {
           <EntotaMain src={"img/Entota_Main.svg"} />
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href={docUrl('Getting%20Started%20with%20Entota.html')}>Getting Started</Button>
-            <Button href={docUrl('Current%20Month.html')}>What's New</Button>
+            <Button href={docUrl('Getting_Started_with_Entota.html')}>Getting Started</Button>
+            <Button href={docUrl('Current Month.html')}>What's New</Button>
           </PromoSection>
         </div>
       </SplashContainer>

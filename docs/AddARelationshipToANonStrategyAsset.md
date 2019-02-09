@@ -38,7 +38,7 @@ To add a goal or initiative to a non-strategy asset:
 1.  In the right panel on the Overview tab, click the **Add**
     (![](Resources/Images/addtermterm.png)) icon.
     
-    ![](Resources/Images/right%20panel.png)
+    ![](Resources/Images/right_panel.png)
 
 2.  In the Relate Assets sidebar, begin typing the name of a goal or
     initiative and click the link that appears for the asset. Select all

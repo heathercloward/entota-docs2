@@ -1,3 +1,7 @@
+---
+sidebar_label: Categories
+---
+
 # Categories
 
 You can access the detail modal to add a Category.

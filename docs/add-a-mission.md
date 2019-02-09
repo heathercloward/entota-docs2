@@ -20,7 +20,7 @@ click the **Pencil** (![](Resources/Images/edit_pencil1.png)) icon.
 
 Next, you can:
 
-  - [Add a sponsor](Add%20a%20Sponsor%20to%20an%20Asset.md)
-  - [Share the URL for the Mission](Share%20URLs%20for%20Assets.md)
-  - [Add Supporting Documentation to the Mission](Add%20Supporting%20Doc.md)
-  - [View Change History](View%20Change%20History%20for%20Assets.md)
+  - [Add a sponsor](Add_a_Sponsor_to_an_Asset.md)
+  - [Share the URL for the Mission](Share_URLs_for_Assets.md)
+  - [Add Supporting Documentation to the Mission](Add_Supporting_Doc.md)
+  - [View Change History](View_Change_History_for_Assets.md)

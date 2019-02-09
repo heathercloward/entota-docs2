@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'Getting Started with Entota', label: 'Docs'},
+    {doc: 'Getting_Started_with_Entota', label: 'Docs'},
     {doc: 'Welcome', label: 'Help'},
     {doc: 'Current Month', label: "Release Notes"},
     {blog: false},

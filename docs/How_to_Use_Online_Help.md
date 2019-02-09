@@ -15,4 +15,4 @@ To use online Help:
   - [Basic Navigation](Basic_Navigation.md)
   - [Print, Remove Highlights, Footer Links and
     Feedback](Print_Feedback_Version.md)
-  - [Online Help Search Tips](Online%20Help%20Search%20Tips.md)
+  - [Online Help Search Tips](Online_Help_Search_Tips.md)

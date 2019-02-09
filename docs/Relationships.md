@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: Overview
 ---
 # Relationships
 
@@ -10,4 +10,4 @@ To use relationships:
   - [Add a Relationship to a Non-Strategy Asset](AddARelationshipToANonStrategyAsset.md)
   - [Add a Relationship to a Strategy Asset](AddARelationshipToAStrategyAsset.md)
   - [Add a Term-to-Term Relationship](AddATermToTermRelationship.md)
-  - [Deep Guidance™ Inferred Relationships](Deep%20Guidance%20Inferred%20Relationships.md)
+  - [Deep Guidance™ Inferred Relationships](Deep_Guidance_Inferred_Relationships.md)

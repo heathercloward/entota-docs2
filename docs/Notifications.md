@@ -1,3 +1,7 @@
+---
+sidebar_label: Notifications
+---
+
 # Notifications
 
 You can view notifications about changes, such as contests to your
@@ -18,7 +22,7 @@ well.
 | When an asset is moved to Review Status             | All Sponsors and Assignees of the asset |
 
 >**NOTE:** Email notifications can be turned on/off in user account
-settings, see [Update My Profile](Update%20My%20Profile.md) for more
+settings, see [Update My Profile](Update_My_Profile.md) for more
 information.
 
 Notifications are available for six months. After six months, whether

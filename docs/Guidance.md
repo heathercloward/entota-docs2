@@ -1,13 +1,17 @@
+---
+sidebar_label: Guidance
+---
+
 # Guidance
 
 When you are viewing the details of an asset, you can click the Guidance
-(![](Resources/Images/Guidance%20Icon.png)) icon to see guidance for
+(![](Resources/Images/Guidance_Icon.png)) icon to see guidance for
 adding details to increase the business value of an asset. For example,
 if you have not assigned an asset or added a sponsor, the following
 guidance is offered. As you add the suggested details to the asset, the
 suggestion is removed from the Guidance panel.
 
-![](Resources/Images/Guidance%20Panel.png)
+![](Resources/Images/Guidance_Panel.png)
 
 In addition to guidance for increasing business value, the guidance
 displays terms you can add to your Terms glossary based on the content

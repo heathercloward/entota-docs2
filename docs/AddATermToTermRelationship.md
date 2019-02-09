@@ -39,7 +39,7 @@ To add a Term-to-Term relationship:
       - Click **Remove.**
 
 [Deep Guidance™ Inferred
-Relationships](Deep%20Guidance%20Inferred%20Relationships.md) display
+Relationships](Deep_Guidance_Inferred_Relationships.md) display
 suggested Terms below the user-chosen Terms.
 
 ![](Resources/Images/DeepGuidanceSection.png)

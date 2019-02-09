@@ -1,17 +1,17 @@
 {
   "docs": {
-    "Getting Started": ["Getting Started with Entota"],
-    "Dashboards": ["Migration Dashboard", "Director Dashboard", "Director Dashboard Deep Guidance"],
-    "Requirements": ["Entota WebSocket Firewall Requirements"],
-    "Administration": ["Administration", "Search Admin", "Add a User to Entota", "Edit a User Account", "Update My Profile"],
-    "Search": ["Enhanced Search"],
-    "Strategy": ["Strategy", "Vision Mission Goals and Initiatives", "Add a Vision", "add-a-mission", "Add Goals", "Add Initiatives"],
-    "Terms, Policies, and Rules": ["Terms Policies Rules", "Set Up Terms", "Set Up Policies", "Set Up Rules"],
-    "Data Catalog": ["Data Catalog", "Set Up a System", "Import Fields to a System", "Set Up a Data Set"],
-    "Sponsors": ["Sponsors","Add a Sponsor to an Asset", "Sponsor an Asset", "Contest an Asset (Non-sponsors)"],
-    "Relationships": ["Relationships", "Add a Relationship to a Non-Strategy Asset", "Add a Relationship to a Strategy Asset", "Add a Term-to-Term Relationship", "Deep Guidance Inferred Relationships"],
-    "Asset Options": ["Asset Options", "Share URLs for Assets", "View Change History for Assets", "Contest an Asset (Non-sponsors)", "Comment on an Asset", "Add Supporting Documentation to an Asset", "Enforcement Profiles"],
-    "Process Designer": ["process-designer-overview", "Search Process Designer", "Categories", "add-a-category", "add-a-process-or-scenario", "edit-a-process-or-scenario", "Publish Governance Elements", "Where Used", "Visual Designer", "Visual Designer Overview", "Visual Designer Toolbar and Navigation", "Visual Designer - Process Deep Dive", "Visual Designer - Scenario Deep Dive"],
+    "Getting Started": ["Getting_Started_with_Entota"],
+    "Dashboards": ["Migration_Dashboard", "Director_Dashboard", "Director_Dashboard_Deep_Guidance"],
+    "Requirements": ["Entota_WebSocket_Firewall_Requirements"],
+    "Administration": ["Administration", "Search_Admin", "Add_a_User_to_Entota", "Edit_a_User_Account", "Update_My_Profile"],
+    "Search": ["Enhanced_Search"],
+    "Strategy": ["Strategy", "Vision_Mission_Goals_and_Initiatives", "Add_a_Vision", "add-a-mission", "Add_Goals", "Add_Initiatives"],
+    "Terms, Policies, and Rules": ["Terms_Policies_Rules", "Set_Up_Terms", "Set_Up_Policies", "Set_Up_Rules"],
+    "Data Catalog": ["Data_Catalog", "Set_Up_a_System", "Import_Fields_to_a_System", "Set_Up_a_Data_Set"],
+    "Sponsors": ["Sponsors","Add_a_Sponsor_to_an_Asset", "Sponsor_an_Asset", "Contest_an_Asset_Non-sponsors"],
+    "Relationships": ["Relationships", "AddARelationshipToANonStrategyAsset", "AddARelationshipToAStrategyAsset", "AddATermToTermRelationship", "Deep_Guidance_Inferred_Relationships"],
+    "Asset Options": ["Asset Options", "Share URLs for Assets", "View_Change_History_for_Assets", "Contest_an_Asset_Non-sponsors)", "Comment_on_an_Asset", "Add_Supporting_Documentation_to_an_Asset", "Enforcement_Profiles"],
+    "Process Designer": ["process-designer-overview", "Search Process_Designer", "Categories", "add-a-category", "add-a-process-or-scenario", "edit-a-process-or-scenario", "Publish_Governance_Elements", "Where_Used", "Visual_Designer", "Visual_Designer_Overview", "Visual_Designer_Toolbar_and_Navigation", "Visual_Designer_Process_Deep", "Visual_Designer_Scenario_Deep"],
     "Guidance": ["Guidance"],
     "Notifications": ["Notifications"]
   },
@@ -22,6 +22,6 @@
   }, 
   "Help": {
     "Welcome": ["Welcome"],
-    "How to use Online Help": ["How_to_Use_Online_Help", "Basic_Navigation", "Print_Feedback_Version", "Online Help Search Tips"]
+    "How to use Online Help": ["How_to_Use_Online_Help", "Basic_Navigation", "Print_Feedback_Version", "Online_Help_Search_Tips"]
   }
 }

@@ -1,3 +1,7 @@
+---
+sidebar_label: Enforcement Profiles
+---
+
 # Enforcement Profiles
 
 Enforcement Profiles document information about the purpose, the

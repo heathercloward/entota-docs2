@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: Overview
 ---
 # Sponsors
 
@@ -11,6 +11,6 @@ status.
 
 Learn about Sponsors:
 
-  - [Add a Sponsor to an Asset](Add%20a%20Sponsor%20to%20an%20Asset.md)
-  - [Sponsor an Asset](Sponsor%20an%20Asset.md)
-  - [Contest an Asset (Non-sponsors)](Contest%20an%20Asset%20Non-sponsors.md)
+  - [Add a Sponsor to an Asset](Add_a_Sponsor_to_an_Asset.md)
+  - [Sponsor an Asset](Sponsor_an_Asset.md)
+  - [Contest an Asset (Non-sponsors)](Contest_an_Asset_Non-sponsors.md)

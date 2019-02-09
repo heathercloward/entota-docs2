@@ -1,5 +1,5 @@
 ---
-sidebar_label: Print, Remove Highlights, Footer Links and Feedback
+sidebar_label: Print, Remove Highlights, Footer Links, and Feedback
 ---
 # Print, Remove Highlights, Footer Links and Feedback
 

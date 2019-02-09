@@ -1,4 +1,8 @@
 ---
+sidebar_label: doc2
+---
+
+---
 id: doc2
 title: document number 2
 ---

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: Overview
 ---
 # Administration
 
@@ -10,7 +10,7 @@ have a valid email address.
 
 This section contains the following topics:
 
-  - [Search Admin](Search%20Admin.md)
-  - [Add a User to the Entota™](Add%20a%20User%20to%20Entota.md)
-  - [Edit a User Account](Edit%20a%20User%20Account.md)
-  - [Update My Profile](Update%20My%20Profile.md)
+  - [Search Admin](Search_Admin.md)
+  - [Add a User to the Entota™](Add_a_User_to_Entota.md)
+  - [Edit a User Account](Edit_a_User_Account.md)
+  - [Update My Profile](Update_My_Profile.md)

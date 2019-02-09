@@ -1,6 +1,7 @@
 ---
-title: edit-a-process-or-scenario
+sidebar_label: Edit a Process or Scenario
 ---
+
 # Edit a Process or Scenario
 
 1.  Click the **Process Designer** icon.
@@ -8,7 +9,7 @@ title: edit-a-process-or-scenario
 2.  Click the **Edit** icon.
     
     >**NOTE:** The edit icon looks like this:
-    ![](Resources/Images/Edit%20a%20Process%20or%20Scenario.png)
+    ![](Resources/Images/Edit_a_Process_or_Scenario.png)
 
 3.  Click the dot under each label to navigate to different tabs.
     

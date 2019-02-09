@@ -1,8 +1,7 @@
 ---
-id: add-a-category
-title: Add a Category
 sidebar_label: Add a Category
 ---
+
 # Add a Category
 
 In the Process Designer, a Category allows you to organize your
