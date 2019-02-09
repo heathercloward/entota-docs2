@@ -23,15 +23,15 @@
 const siteConfig = {
   title: 'Entota™ Help', // Title for your website.
   //tagline: 'A website for Enota Help',
-  url: 'https://heathercl.gitlab.io', // Your website URL
-  baseUrl: '/manuals-site/', // Base URL for your project */
+  url: 'https://heathercloward.github.io', // Your website URL
+  baseUrl: '/entota-docs2/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'manuals-site',
-  organizationName: 'heathercl',
+  projectName: 'entota-docs2',
+  organizationName: 'heathercloward',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
