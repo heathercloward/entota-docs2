@@ -56,7 +56,7 @@ On the rule’s detail page, you can also do the following:
 
 Next, you can:
 
-  - [Add an Enforcement Profile](enforcementProfiles.md)
+  - [Add an Enforcement Profile](EnforcementProfiles.md)
   - [Add a sponsor](Add_a_Sponsor_to_an_Asset.md)
   - [Share the URL for the rule](Share_URLs_for_Assets.md)
   - [View the change history for the
