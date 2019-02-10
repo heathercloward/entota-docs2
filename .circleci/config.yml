@@ -26,7 +26,7 @@ jobs:
             # fallback to using the latest cache if no exact match is found
             - v1-dependencies-
 
-      - run: cd website && yarn install && GIT_USER=heathercloward yarn run publish-gh-pages
+      - run: cd website && npm install && GIT_USER=heathercloward npm run publish-gh-pages
 
       - save_cache:
           paths:
