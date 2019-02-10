@@ -10,5 +10,5 @@ The Process Designer is a collaborative business process modeling and design wor
 Use the Process Designer to:
 
   - [Add a Category](add-a-category.md)
-  - [Add a Process or Scenario](Add_a_Process_orScenario.md)
+  - [Add a Process or Scenario](Add_a_Process_or_Scenario.md)
   - [Edit a Process or Scenario](edit-a-process-or-scenario.md)
